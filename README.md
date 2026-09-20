@@ -49,7 +49,7 @@ Clone the repository and compile using `make`:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/3DS-Music.git](https://github.com/YOUR_USERNAME/3DS-Music.git)
+git clone [https://github.com/3DS-Screen-Breaker/3DS-Music-Player.git](https://github.com/3DS-Screen-Breaker/3DS-Music-Player.git)
 cd 3DS-Music
 
 # Build executable
