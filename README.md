@@ -31,7 +31,7 @@ Designed with simplicity, portability, and performance in mind. **3DS Music Play
 
 ---
 
-## SD Card Structure 📁
+## SD Card Structure
 
 Before launching the application, create a directory named `music` in the root of your SD card and place your audio tracks inside:
 
