@@ -50,7 +50,7 @@ Clone the repository and compile using `make`:
 ```bash
 # Clone the repository
 git clone [https://github.com/3DS-Screen-Breaker/3DS-Music-Player.git](https://github.com/3DS-Screen-Breaker/3DS-Music-Player.git)
-cd 3DS-Music
+cd 3DS-Music-Player
 
 # Build executable
 make clean && make
