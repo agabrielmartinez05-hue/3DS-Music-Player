@@ -35,11 +35,7 @@ Designed with simplicity, portability, and performance in mind. **3DS Music Play
 
 Before launching the application, create a directory named `music` in the root of your SD card and place your audio tracks inside:
 
-sdmc:/
-└── music/
-├── Creeper vs Zombies.ogg
-├── Yo Quiero Ser Minero.mp3
-└── Megalovania.wav
+sdmc:/music/music.wav, music.mp3 or music.ogg
 ---
 
 ## Building from Source
